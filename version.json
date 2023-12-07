@@ -2,7 +2,7 @@
     "qr pro": {
         "version": "2.1.1",
         "code": "+18",
-        "ad-after-scan": "1"
+        "ad-after-scan": "0"
     },
     "qr pro +": {
         "version": "2.0.0",
